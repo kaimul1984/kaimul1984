@@ -7,21 +7,21 @@ Welcome to my GitHub profile! I'm **Kaimul Alam**, a passionate Front-End Develo
 ## 🚀 Skills & Technologies
 
 ### Frontend
-✅- React.js
-✅- Next.js
-✅- Tailwind CSS
-✅- Sass
-✅- JavaScript (ES6+)
-✅- TypeScript
-✅- HTML5, CSS3
-✅- Responsive Web Design
+- ✅React.js
+- ✅Next.js
+- ✅Tailwind CSS
+- ✅Sass
+- ✅JavaScript (ES6+)
+- ✅TypeScript
+- ✅HTML5, CSS3
+- ✅Responsive Web Design
 
 
 ### Backend
-💠- MongoDB
-💠- Firebase
-💠- Prisma ORM
-💠- PostgreSQL
+- 💠MongoDB
+- 💠Firebase
+- 💠Prisma ORM
+- 💠PostgreSQL
 
 ### Other Tools & Libraries
 - Sanity (Headless CMS)
@@ -63,7 +63,7 @@ Here are some of my notable projects that demonstrate my skills in front-end dev
 Feel free to reach out if you'd like to collaborate, discuss projects, or just chat about web development! You can connect with me here:
 
 - **Email:** kaimuljewel@yahoo.com
-- **LinkedIn:** [[LinkedIn Profile](#)](https://ozcitizenshiptest.com.au/)
+- **LinkedIn:** https://www.linkedin.com/in/kaimul-alam/
 
 
 ---
