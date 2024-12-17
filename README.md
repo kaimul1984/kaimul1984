@@ -7,26 +7,30 @@ Welcome to my GitHub profile! I'm **Kaimul Alam**, a passionate Front-End Develo
 ## 🚀 Skills & Technologies
 
 ### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- JavaScript (ES6+)
-- TypeScript
-- HTML5, CSS3
-- Responsive Web Design
-- Version Control (Git)
+✅- React.js
+✅- Next.js
+✅- Tailwind CSS
+✅- Sass
+✅- JavaScript (ES6+)
+✅- TypeScript
+✅- HTML5, CSS3
+✅- Responsive Web Design
+
 
 ### Backend
-- MongoDB
-- Prisma ORM
-- API Development (RESTful, GraphQL)
+💠- MongoDB
+💠- Firebase
+💠- Prisma ORM
+💠- PostgreSQL
 
 ### Other Tools & Libraries
 - Sanity (Headless CMS)
 - Redux / Zustand (State Management)
-- Jest, React Testing Library (Unit Testing)
-- Node.js
-- Vercel, Netlify, Heroku (Deployment)
+- Shadcn ui
+- React-hook-form
+- Clerk Auth, Next Auth
+- Stripe
+- Vercel, Netlify, Hostinger, VPS Hosting (Deployment)
 
 ---
 
@@ -34,26 +38,20 @@ Welcome to my GitHub profile! I'm **Kaimul Alam**, a passionate Front-End Develo
 
 Here are some of my notable projects that demonstrate my skills in front-end development:
 
-### 1. **[Project Name]**
-   - **Description:** A short description of what the project does and the technologies used.
-   - **Technologies:** React, Next.js, Tailwind CSS, TypeScript, MongoDB
-   - **Link:** [Live Demo](#) | [Repository](#)
+### 1. **Australian citizenship Practice Test**
+   - **Description:** This is a full-stack MCQ practice test website designed for the Australian citizenship test, where users can practice a large number of questions and navigate through 40 sets of tests that closely mimic the real exam format. Users can move seamlessly from one test to another, and upon completion, their scores will be displayed, indicating whether they passed or failed the exam..
+   - **Technologies:** React, Next.js, Tailwind CSS, MDX, TypeScript, MongoDB, Firebase
+   - **Link:** [[Live Demo](https://ozcitizenshiptest.com.au/)]
 
-### 2. **[Project Name]**
-   - **Description:** A short description of the project. Explain what challenges you faced and how you solved them.
-   - **Technologies:** Next.js, Prisma, Sanity, Tailwind CSS, TypeScript
-   - **Link:** [Live Demo](#) | [Repository](#)
-
-### 3. **[Project Name]**
-   - **Description:** Another brief description of your project, its purpose, and key features.
-   - **Technologies:** React, Redux, MongoDB, Node.js
-   - **Link:** [Live Demo](#) | [Repository](#)
+### 2. **WESTERN SYDNEY VOCATIONAL TRAINING ACADEMY**
+   - **Description:** Western Sydney Vocational Training Academy is one of my finest full-stack projects, built using React, Next.js, Tailwind CSS, and Sanity.io for the backend. I have implemented Clerk for authentication. The website is integrated with RTO Data Cloud, a student management software, to assist students in scheduling their courses and enrolments.
+   - **Technologies:** Next.js, React, Sanity, Tailwind CSS, TypeScript
+   - **Link:** [[Live Demo](https://www.wsvta.nsw.edu.au/)]
 
 ---
 
 ## 🌱 Currently Learning
 
-- GraphQL & Apollo Client
 - Server-Side Rendering (SSR) with Next.js
 - Advanced TypeScript Patterns
 - Progressive Web Apps (PWAs)
@@ -64,9 +62,9 @@ Here are some of my notable projects that demonstrate my skills in front-end dev
 
 Feel free to reach out if you'd like to collaborate, discuss projects, or just chat about web development! You can connect with me here:
 
-- **Email:** kaimul.alam@email.com
-- **LinkedIn:** [LinkedIn Profile](#)
-- **Twitter:** [@kaimulalam](#)
+- **Email:** kaimuljewel@yahoo.com
+- **LinkedIn:** [[LinkedIn Profile](#)](https://ozcitizenshiptest.com.au/)
+
 
 ---
 
