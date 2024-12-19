@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I'm **Kaimul Alam**, a passionate Front-End Develo
 
 Here are some of my notable projects that demonstrate my skills in front-end development:
 
-### 1. **Australian citizenship Practice Test**
+### 📝 1. **Australian citizenship Practice Test**
    - **Description:** This is a full-stack MCQ practice test website designed for the Australian citizenship test, where users can practice a large number of questions and navigate through 40 sets of tests that closely mimic the real exam format. Users can move seamlessly from one test to another, and upon completion, their scores will be displayed, indicating whether they passed or failed the exam..
    - **Technologies:** React, Next.js, Tailwind CSS, MDX, TypeScript, MongoDB, Firebase
    - **Link:** [[Live Demo](https://ozcitizenshiptest.com.au/)]
 
-### 2. **WESTERN SYDNEY VOCATIONAL TRAINING ACADEMY**
+### 📝 2. **WESTERN SYDNEY VOCATIONAL TRAINING ACADEMY**
    - **Description:** Western Sydney Vocational Training Academy is one of my finest full-stack projects, built using React, Next.js, Tailwind CSS, and Sanity.io for the backend. I have implemented Clerk for authentication. The website is integrated with RTO Data Cloud, a student management software, to assist students in scheduling their courses and enrolments.
    - **Technologies:** Next.js, React, Sanity, Tailwind CSS, TypeScript
    - **Link:** [[Live Demo](https://www.wsvta.nsw.edu.au/)]
